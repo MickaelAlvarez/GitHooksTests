@@ -1,3 +1,2 @@
 second_line
-second	line +bl
-test2
+second line +bl
