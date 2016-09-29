@@ -1,2 +1,2 @@
 second_line
-second line
+second	line
