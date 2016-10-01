@@ -1,2 +1,1 @@
 # GitHooksTests
-test
